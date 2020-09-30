@@ -1,8 +1,8 @@
-a = input ("Введите 1 число:")
+a = input ("enter 1 number")
 if int (a) == 10:
-    print ("a равно 10")
+    print ("a equally 10")
 elif int (a) < 10:
-    print ("a меньше 10")
+    print ("a less 10")
 else:
-  print ("a больше 10")
+  print ("a more 10")
         
