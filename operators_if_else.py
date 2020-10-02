@@ -1,8 +1,8 @@
-a = input ("enter 1 number")
-if int (a) == 10:
-    print ("a equally 10")
-elif int (a) < 10:
-    print ("a less 10")
+number = input ("enter number:")
+if int (number) == 10:
+    print ("number equally 10")
+elif int (number) < 10:
+    print ("number less 10")
 else:
-  print ("a more 10")
+  print ("number more 10")
         
